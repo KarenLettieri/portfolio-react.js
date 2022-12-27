@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-react.js/static/css/main.ff959212.css",
+    "main.js": "/portfolio-react.js/static/js/main.7e77faad.js",
+    "static/media/NearTalent.PNG": "/portfolio-react.js/static/media/NearTalent.6cfb9a3d3d4038b4d329.PNG",
+    "static/media/RickMorty.PNG": "/portfolio-react.js/static/media/RickMorty.6611fc14f3723c60ee8c.PNG",
+    "static/media/heroImage.png": "/portfolio-react.js/static/media/heroImage.326ebffe0ab71641490d.png",
+    "static/media/victorio.PNG": "/portfolio-react.js/static/media/victorio.7cb85df915c1f21fc221.PNG",
+    "static/media/sql.png": "/portfolio-react.js/static/media/sql.d8f4255fb8cc5c81f14d.png",
+    "static/media/python.png": "/portfolio-react.js/static/media/python.337bf6f6dd5a3edd8755.png",
+    "static/media/django.png": "/portfolio-react.js/static/media/django.eac8d410472da6aec1b8.png",
+    "static/media/react.png": "/portfolio-react.js/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/comingsoon.jpg": "/portfolio-react.js/static/media/comingsoon.efd3754911c8d17fb4ff.jpg",
+    "static/media/github.png": "/portfolio-react.js/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/portfolio-react.js/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio-react.js/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio-react.js/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio-react.js/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio-react.js/index.html",
+    "main.ff959212.css.map": "/portfolio-react.js/static/css/main.ff959212.css.map",
+    "main.7e77faad.js.map": "/portfolio-react.js/static/js/main.7e77faad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff959212.css",
+    "static/js/main.7e77faad.js"
+  ]
+}
