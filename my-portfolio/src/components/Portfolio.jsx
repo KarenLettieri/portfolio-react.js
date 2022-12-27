@@ -2,6 +2,7 @@ import React from "react";
 import rickmorty from "../assets/portfolio/RickMorty.PNG";
 import neartalent from "../assets/portfolio/NearTalent.PNG";
 import comingsoon from "../assets/portfolio/comingsoon.jpg";
+import victorio from "../assets/portfolio/victorio.PNG";
 
 const Portfolio = () => {
     const portfolios = [
@@ -18,9 +19,15 @@ const Portfolio = () => {
 
         {
             id: 3,
+            src: victorio,
+            href: 'https://main--tpingsoftware2022.netlify.app/'
+        },
+
+        {
+            id: 4,
             src: comingsoon,
             href: 'https://github.com/KarenLettieri'
-        },
+        }
     ];
 
     return (
