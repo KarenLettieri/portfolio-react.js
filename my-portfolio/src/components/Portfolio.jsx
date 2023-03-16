@@ -26,7 +26,7 @@ const Portfolio = () => {
         {
             id: 4,
             src: amazing,
-            href: 'https://main--tpingsoftware2022.netlify.app/'
+            href: 'https://karenlettieri.github.io/Mindhub-Task3-Js/'
         },
 
 
