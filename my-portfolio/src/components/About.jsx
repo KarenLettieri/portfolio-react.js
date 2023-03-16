@@ -17,7 +17,7 @@ const About = () => {
                 </p>
                 <br />
 
-                <p className='text-xl'> 💻Soy el tipo se persona que adora el conocimiento, enfocada en mi trabajo, con un gran compromiso y soy muy detallista.
+                <p className='text-xl'> 💻Soy el tipo de persona que adora el conocimiento, enfocada en mi trabajo, con un gran compromiso y soy muy detallista.
                     Me encanta estar al dia con el aprendizaje de cualquier tipo de derivado de la programación y desarrollo web. 
                     Sigo aprendiendo actualmente nuevas tecnologias como Node.js, .NET, entre otros. </p>
             </div>
